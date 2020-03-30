@@ -1,0 +1,18 @@
+﻿  Main.c
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(33,23): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(33,23): warning C4024: 'display': different types for formal and actual parameter 2
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(39,23): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(39,23): warning C4024: 'display': different types for formal and actual parameter 2
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(44,23): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(44,23): warning C4024: 'display': different types for formal and actual parameter 2
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(49,23): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Main.c(49,23): warning C4024: 'display': different types for formal and actual parameter 2
+  Source.c
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(25,12): warning C4013: 'time' undefined; assuming extern returning int
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(28,49): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(28,59): warning C4090: 'function': different 'const' qualifiers
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(36,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(36,60): warning C4090: 'function': different 'const' qualifiers
+D:\CNT S2\1700\ica-9-ywu42\ICA9\ICA9\Source.c(104,53): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+  ICA9.vcxproj -> D:\CNT S2\1700\ica-9-ywu42\ICA9\Debug\ICA9.exe
